@@ -1,5 +1,4 @@
 *.class
 *.log
 *.jar
-hello/target/*
-hello/project/target/*
+target/
